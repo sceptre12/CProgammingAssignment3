@@ -1,0 +1,6 @@
+Output in Accending Order
+34 45 54 65 76 99 290 1231 4402 42412 1241241 
+Sum Of All Odd Values
+1242681
+Number of Even Values Stored
+6
