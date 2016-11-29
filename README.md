@@ -1,4 +1,4 @@
-#C Small  Assignment 3
+#C Small  Assignment 3 (Programming Assignment)
 
 Perform the following operations on integer array of 10 or more elements. Read the numbers from a file. Write the results to an output file.
 1. Sort the array in ascending order. 
